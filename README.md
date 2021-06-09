@@ -1,3 +1,3 @@
 - Backend Java Spring
-- javascript, jquery
+- Javascript, Jquery
 - Mybatis
