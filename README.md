@@ -1,3 +1,4 @@
-- Backend Java Spring, SpringBoot
+- Backend 
+- Java Spring, SpringBoot
 - Javascript, Jquery, Vue.js
-- Mybatis
+- MySQL, Mybatis
