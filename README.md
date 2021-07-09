@@ -1,4 +1,1 @@
-## Backend 
- 1. Java Spring, SpringBoot
- 2. Javascript, Jquery, Vue.js
- 3. MySQL, JPA, Mybatis
+[![Prde's GitHub stats](https://github-readme-stats.vercel.app/api?username=prde9306&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
