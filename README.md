@@ -1,6 +1,5 @@
 <div align=left>
-        <h1> Prde- Backend Developer </h1>
-        <h2> Spring come to me </h2>
+        <h1> Spring come to me </h1>
 </div>
 
 [![Prde's GitHub stats](https://github-readme-stats.vercel.app/api?username=prde9306&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
