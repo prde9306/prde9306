@@ -2,10 +2,6 @@
         <h1> Spring come to me through someone else </h1>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prde9306&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!-- <div id="abc">
 <img src="http://img.shields.io/badge/-Java-5EC75E?style=flat&logo=Java"
